@@ -1,4 +1,5 @@
 #include "Appointment.h"
+#include "RecipeUser.h"
 #include "status.h"
 #include <iostream>
 #include<string>
