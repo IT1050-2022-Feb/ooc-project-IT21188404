@@ -1,4 +1,4 @@
-# ooc-project-IT21188404
+# ooc-project-IT21188404 - ONLINE RECIPE MANAGEMENT SYSTEM
 ooc-project-IT21188404 created by GitHub Classroom
 
 
