@@ -1,6 +1,9 @@
 # ooc-project-IT21188404 - ONLINE RECIPE MANAGEMENT SYSTEM
 ooc-project-IT21188404 created by GitHub Classroom
 
+Group no : MLB_10.01_08
+Campus : Malabe
+
 
 Contributions
 
